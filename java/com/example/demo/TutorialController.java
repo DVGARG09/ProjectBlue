@@ -12,8 +12,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.bezkoder.spring.thymeleaf.entity.Tutorial;
-import com.bezkoder.spring.thymeleaf.repository.TutorialRepository;
+
 
 @Controller
 public class TutorialController {
